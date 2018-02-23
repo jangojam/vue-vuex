@@ -316,7 +316,7 @@ store.state.a.count // -> moduleA 的状态
 store.state.b.num // -> moduleB 的状态
 ```
 以上就是vuex的主要内容  
-[vuexc传送门](https://vuex.vuejs.org/zh-cn/)   
+[vuex传送门](https://vuex.vuejs.org/zh-cn/)   
 
 
 
